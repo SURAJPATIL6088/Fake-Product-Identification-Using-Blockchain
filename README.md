@@ -1,5 +1,14 @@
 # Product Identification Using Blockchain
 
+### Technologies & Frameworks :
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/SURAJPATIL6088)
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SURAJPATIL6088)
+[![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=Web3.js)](https://github.com/SURAJPATIL6088)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SURAJPATIL6088)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/SURAJPATIL6088)
+
 ## Abstract
 In recent years, blockchain has received increasing attention and numerous applications have emerged from this technology. A renowned blockchain application is the cryptocurrency bitcoin, that has not only been effectively solving the double-spending problem but also it can confirm the legitimacy of transactional records without relying on a centralized system to do so. Therefore, any application using blockchain technology as the base architecture ensures that the contents of its data are tamper-proof. <br>
 This project is going to uses the ***Decentralized Blockchain Technology*** approach to ensure that consumers do not fully rely on the merchants to determine if products are genuine.Project describe a decentralized blockchain system with products anti-counterfeiting, in that way manufacturers can use this system to provide genuine products without having to manage direct-operated stores, which can significantly reduce the cost of product quality assurance
