@@ -32,8 +32,6 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
 ## Block Diagram : 
 ![block diagram drawio](https://github.com/Atharva-Pimple/Fake-Product-Identification-Using-Blockchain/assets/137868738/257cdf79-701c-47fb-aa38-ff890d08c28d)
 
-
-
 ## Use Case Diagram : 
 
 ## Contributors : 
