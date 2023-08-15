@@ -30,6 +30,9 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
   - To become aware of fake products from the primary product available in the marketplace and to enhance this performance.
 
 ## Block Diagram : 
+![block diagram drawio](https://github.com/Atharva-Pimple/Fake-Product-Identification-Using-Blockchain/assets/137868738/257cdf79-701c-47fb-aa38-ff890d08c28d)
+
+
 
 ## Use Case Diagram : 
 
