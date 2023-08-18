@@ -20,7 +20,7 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
 ## Problem Statement : 
   -There are various tricky part here is to detect whether the product is fake or real. It is very scary to hear this happening with medicines and kids toys. This problem is becoming more serious as the products value will be questioned. 
   -The worldwide improvement of an item or innovation consistently accompanies hazard factors, for example, forging and duplication. Forging items can influence the organization's name and the client's wellbeing.
-  -Presently days discovery of phony item is the greatest test. Fake items are causing a significant impact on the organization and the client's wellbeing. Hence, item creators are confronting enormous misfortune.
+  -Presently days discovery of phony item is the greatest test. Fake items are causing a significant impact on the organization and the client's wellbeing. Hence, item creators are confronting enormous misfortune. 
 
 
 ## Proposed Solution : 
