@@ -1,11 +1,10 @@
 ## 🤔 Getting Started :
 
-1. Go to the `blockchain-product-verification-react-main`
-  Make Sure you are in the Main folder : 
-
+1. Go to the `blockchain-product-verification-react-main` <br>
+Make Sure you are in the Main folder : 
 
 ``
-PS F:\Main Mini Project\blockchain-product-verification-react-main-20230425T165036Z-001\blockchain-product-verification-react-main> 
+blockchain-product-verification-react-main-20230425T165036Z-001\blockchain-product-verification-react-main
 ``
 <br>
 1. Install the Node_Modules
